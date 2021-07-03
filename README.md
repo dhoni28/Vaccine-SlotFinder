@@ -1,6 +1,8 @@
 # Vaccine-SlotFinder
 
 States:
+
+
 {"states":[{"state_id":1,"state_name":"Andaman and Nicobar Islands"},
 {"state_id":2,"state_name":"Andhra Pradesh"},
 {"state_id":3,"state_name":"Arunachal Pradesh"},
@@ -41,6 +43,8 @@ States:
 
 
 District Code For Maharashtra:
+
+
 {"districts":[{"district_id":391,"district_name":"Ahmednagar"},
 {"district_id":364,"district_name":"Akola"},
 {"district_id":366,"district_name":"Amravati"},
@@ -78,7 +82,9 @@ District Code For Maharashtra:
 {"district_id":368,"district_name":"Yavatmal"}],"ttl":24}
 
 You can check the code for other district just by pasting the below URL in the browser:
+
 https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByDistrict?district_id=395&date=03-06-2021
 
 Check the district code from the given points above and change according to your district and change the date on which you want to book your slot for vaccine.
+
 OR you can serach by your area pincode as well.
